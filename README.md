@@ -1,4 +1,4 @@
-# Todo API with graphql
+# GraphQL Todo API with authentication
 This is a graphql api that handles all the functionalities of a todo app
 
 `git clonehttps://github.com/CLA-GITHUB/graphql-jwt-todo-app.git`
